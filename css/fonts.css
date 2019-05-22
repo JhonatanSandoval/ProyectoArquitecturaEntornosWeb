@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Roboto-Condensed;
+    src: url('../fonts/Roboto-Condensed.eot');
+    src: local('Roboto-Condensed'), url('../fonts/Roboto-Condensed.ttf');
+}
+
+@font-face {
+    font-family: Roboto-BoldCondensed;
+    src: url('../fonts/Roboto-BoldCondensed.eot');
+    src: local('Roboto-BoldCondensed'), url('../fonts/Roboto-BoldCondensed.ttf');
+}
+
+@font-face {
+    font-family: Roboto-Bold;
+    src: url('../fonts/Roboto-Bold.eot');
+    src: local('Roboto-Bold'), url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: Roboto-Medium;
+    src: url('../fonts/Roboto-Medium.eot');
+    src: local('Roboto-Medium'), url('../fonts/Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: Roboto-Regular;
+    src: url('../fonts/Roboto-Regular.eot');
+    src: local('Roboto-Regular'), url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: Roboto-Light;
+    src: url('../fonts/Roboto-Light.eot');
+    src: local('Roboto-Light'), url('../fonts/Roboto-Light.ttf');
+}
+
+@font-face {
+    font-family: Roboto-Thin;
+    src: url('../fonts/Roboto-Thin.eot');
+    src: local('Roboto-Thin'), url('../fonts/Roboto-Thin.ttf');
+}
